@@ -1,7 +1,7 @@
 <h2 align="left">Olá, me chamo Henrique Augusto! 💻</h2>
 
 ###
-<p align="left">Sou um Desenvolvedor WEB e estudo computação desde 2022 💻<br><br>Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças. 🦅<br><br>Atualmente estudo HTML, CSS e JavaScript com foco em aplicações WEB </p>
+<p align="left">Sou um Desenvolvedor WEB e estudo computação desde 2022. 💻<br><br>Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças. 🦅<br><br>Atualmente estudo HTML, CSS e JavaScript com foco em aplicações WEB. </p>
 
 ###
 <h2 align="left">Technologies 🛠</h2>
